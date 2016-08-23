@@ -3,11 +3,14 @@
 Progress stopped at https://docs.djangoproject.com/en/1.10/intro/tutorial03/
 
 pip freeze output:
+
 Django==1.10
+
 mysqlclient==1.3.7
 
 
 ## Setup ##
+
 [ ] Run vagrant up && ssh
 [ ] vim /etc/mysql/my.cnf (bind-address = 0.0.0.0)
 [ ] start mysql (/usr/bin/mysqld_safe and mysql_install_db)
