@@ -1,6 +1,6 @@
 # README #
 
-Progress stopped at https://docs.djangoproject.com/en/1.10/intro/tutorial03/
+Progress stopped [here](https://docs.djangoproject.com/en/1.10/intro/tutorial03/)
 
 pip freeze output:
 
